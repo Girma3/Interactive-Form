@@ -10,5 +10,5 @@ In this project I learn more about form validation and I want to continue to lea
 
 for this project https://stackoverflow.com/ help me a lot. and here is the screenshot one is active and the other when completed the form.
 
-![active-form](../03-interactive-card-details-form-main/images/active-form.jpg)
-![form-submit](../03-interactive-card-details-form-main/images/form-submit.jpg)
+![active-form](images/active-form.jpg)
+![form-submit](images/form-submit.jpg)
