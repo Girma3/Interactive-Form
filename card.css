@@ -44,7 +44,7 @@ main{
 } 
 
 .sub-container{
-    margin-left: 1rem;
+    /* margin-left: rem; */
     position: relative;
     min-height: 50vh;
     max-width: 70%;
@@ -83,7 +83,7 @@ image define the size of container */
     margin-left: 1rem;
  }
  .card-num{
- top:50%;
+ top:40%;
  margin-left:2rem;
  font-size:2rem ;
 }
@@ -98,7 +98,7 @@ image define the size of container */
  .cvc-num{
    color: rgb(22, 21, 21);
     font-size: 1.5rem;
-    top:45%;
+    top:40%;
     right:3rem;
  }
 /* front card become on the top of the other card  */
@@ -139,7 +139,7 @@ front card at top back card at bottom with kind of slide effect when it move */
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 15rem;
+    margin-left: 16rem;
     padding: 1rem;
 
 }
